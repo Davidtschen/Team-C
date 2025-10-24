@@ -15,4 +15,4 @@ Dennoch wird das künftig ein großes Problem bezüglich Wettbewerbsfähigsfähi
 # Beispiele
 ## Kern der Banken basiert auf COBOL
 ## Syteme die immernoch auf Windows XP laufen
-## Damals keine richtige Cloud bzw moderne Techniken nicht praktikabel
+
