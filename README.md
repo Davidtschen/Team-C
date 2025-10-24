@@ -7,3 +7,15 @@
 
 Skizze:
 <img width="1459" height="660" alt="waf" src="https://github.com/user-attachments/assets/51819957-3a70-4769-8a81-f73d80493782" />
+
+# Legacy Apps and Tech
+## Kern der Banken basiert auf COBOL
+
+
+
+## Syteme die immernoch auf Windows XP laufen
+
+
+
+
+## Damals keine richtige Cloud bzw moderne Techniken nicht praktikabel
